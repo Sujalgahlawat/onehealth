@@ -24,18 +24,7 @@
 </p>
 <hr>
 
-## Team Members
 
-
- [OMKAR DHANAVE](https://github.com/omkar231098) 
- 
- [THITE SHUBHAM](https://github.com/shubhamthite09) 
- 
- [SHRADHA VASTRAKAR](https://github.com/ShradhaVastrakar) 
- 
- [VAIBHAV SHEVNE](https://github.com/vaibhzz101) 
- 
- [SANDEEP GUPTA](https://github.com/sandeepguptax2003) 
 
  
 ## Features 
@@ -49,11 +38,7 @@
 -  Admin can perform all CRUD operations
 
 ## Run Locally
-### Clone this Project
 
-```
-https://github.com/omkar231098/rough-support-2269
-```
 
 
 ### Runs the project in the development mode
